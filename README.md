@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a jr Fullstack Js/Ts and a Information System student
+I'm a  Fullstack Js/Ts and a Information System student
 
 #### Techs
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" alt="redux" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"  width="40" height="40" alt="React" />
