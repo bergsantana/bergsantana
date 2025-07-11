@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a  Fullstack Js/Ts and a Information System student
+I'm a  Fullstack Developer and a Information System student
 
 #### Techs
  * Programming languages
